@@ -1,0 +1,64 @@
+h1 {
+    font-size: 80px;
+    font-weight: 700;
+}
+h2 {
+    font-size: 65px;
+    font-weight: 700;
+}
+img {
+    width: 100%;
+}
+p {
+    color: dimgray;
+}
+#cv-btn {
+    margin-left: 7%;
+    
+}
+.hello-highlight {
+    color: rgba(54, 57, 88, 1);
+}
+.nafis-highlight {
+    color: rgb(236, 100, 9);
+}
+.part-1 {
+    width: 40%;
+    float:left;
+    margin-left: 7%;
+}
+.hire-btn {
+    text-decoration: none;
+    background-color: rgb(236, 100, 9);
+    border-radius: 5px;
+    padding: 25px 40px;
+    color: white;
+    font-weight: 700;
+}
+.section-3 {
+    box-shadow: 10px 10px 40px gray;
+    height: 800px;
+}
+.project-align {
+    text-align: center;
+    
+}
+.project {
+    width: 30%;
+    height: 25%;
+    float: left;
+    margin: 20px;
+    
+}
+.work-section {
+    box-shadow: 10px 10px 40px skyblue;
+    height: 400px;
+    
+}
+#work-position {
+    font-size: 65px;
+    font-weight: 700;
+    text-align: center;
+    
+
+}
